@@ -1,0 +1,66 @@
+# KiCad backup & autosave files
+*.bak
+*.tmp
+*.autosave
+*-save.*
+
+# Rescue and cache files
+*-rescue.*
+*.kicad_prl
+fp-info-cache
+__pycache__/
+
+# Old legacy files
+*-cache.lib
+*-rescue.lib
+*-rescue.sch
+
+# Output/manufacturing files
+*.gbr
+*.gt*
+*.gb*
+*.drl
+*.zip
+*.pdf
+
+# Simulation and temp folders
+simulation/
+manufacturing/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+# KiCad backup & autosave files
+*.bak
+*.tmp
+*.autosave
+*-save.*
+
+# Rescue and cache files
+*-rescue.*
+*.kicad_prl
+fp-info-cache
+__pycache__/
+
+# Old legacy files
+*-cache.lib
+*-rescue.lib
+*-rescue.sch
+
+# Output/manufacturing files
+*.gbr
+*.gt*
+*.gb*
+*.drl
+*.zip
+*.pdf
+
+# Simulation and temp folders
+simulation/
+manufacturing/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+
