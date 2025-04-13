@@ -1,0 +1,59 @@
+# KiCad project files to ignore
+
+# Backup and autosave
+*.bak
+*.autosave
+*.tmp
+*.kicad_sch-bak
+*-save.kicad_sch
+*-save.kicad_pcb
+*-rescue.*
+
+# Generated files
+*.net
+*.xml
+*.json
+*.gbr
+*.gbo
+*.gbs
+*.gml
+*.gko
+*.gpb
+*.gpt
+*.gtl
+*.gto
+*.gts
+*.gtp
+*.drl
+*.zip
+*.pdf
+
+# Cache and environment
+*.cache
+*.kicad_prl
+*.kicad_pro-bak
+*.sch-bak
+sym-lib-table-bak
+fp-info-cache
+__pycache__/
+fp-lib-table-bak
+*.mod
+*.tmp.*
+*-cache.lib
+*-rescue.lib
+*-rescue.sch
+
+# KiCad 6/7 specific
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pro-bak
+*.kicad_pcb-bak
+
+# Folder from simulation or manufacturing output
+simulation/
+manufacturing/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
