@@ -19,4 +19,5 @@
   (lib (name "PTS526_SM08_SMTR2_LFS")(type "KiCad")(uri "/Users/yevhenvazhynskyi/KiCad/pcbPart/Tactile_switch/PTS526_SM08_SMTR2_LFS.kicad_sym")(options "")(descr ""))
   (lib (name "ZW-40-XX-X-S-XXX-XXX")(type "KiCad")(uri "/Users/yevhenvazhynskyi/KiCad/pcbPart/Connector/ZW-40-XX-X-S-XXX-XXX/ZW-40-XX-X-S-XXX-XXX.kicad_sym")(options "")(descr ""))
   (lib (name "M20-9991246")(type "KiCad")(uri "/Users/yevhenvazhynskyi/KiCad/pcbPart/Connector/M20-9991246/M20-9991246.kicad_sym")(options "")(descr ""))
+  (lib (name "ZW-20-09-L-S-250-320")(type "KiCad")(uri "/Users/yevhenvazhynskyi/KiCad/pcbPart/Connector/HEADER_20_CONTACTS_1_ROWS_2_54MM/ZW-20-09-L-S-250-320/ZW-20-09-L-S-250-320.kicad_sym")(options "")(descr ""))
 )
